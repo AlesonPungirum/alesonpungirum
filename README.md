@@ -14,7 +14,9 @@
 
 ##  Aqui eu falo um pouco sobre mim
 
-Eu sou desenvolvedor Full Stack e venho trabalhando com projetos web, mobile e também com sistemas de trading automatizados. Atualmente, estou cursando Engenharia de Software na Estácio. Gosto de usar tecnologia pra resolver problemas de forma prática — desenvolvendo sistemas que realmente ajudam as pessoas ou melhoram processos. Pra mim, o mais importante é entregar algo que funcione bem e faça sentido pra quem vai usar.
+Tenho 𝟵 𝗮𝗻𝗼𝘀 𝗱𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲̂𝗻𝗰𝗶𝗮 𝗰𝗼𝗺𝗼 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 e sou especialista em automação de trading. Durante esse tempo, já 𝗰𝗿𝗶𝗲𝗶 𝗺𝗮𝗶𝘀 𝗱𝗲 𝟮𝟬𝟬 𝗿𝗼𝗯𝗼̂𝘀 𝗱𝗲 𝘁𝗿𝗮𝗱𝗶𝗻𝗴 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗮𝗱𝗼𝘀 𝗽𝗮𝗿𝗮 𝗰𝗹𝗶𝗲𝗻𝘁𝗲𝘀, com várias estratégias diferentes e para diversos mercados. Também atuo com desenvolvimento de projetos web e mobile. Se quiser, pode acompanhar meu trabalho lá no Instagram, no @𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗱𝗼𝗿_𝘁𝗿𝗮𝗱𝗲𝗿_𝗼𝗳𝗶𝗰𝗶𝗮𝗹.
+
+Atualmente, trabalho como coordenador dos cursos de TI no projeto TecPop, que é uma iniciativa do Governo de Minas Gerais para ajudar na capacitação profissional. Além disso, estou fazendo Engenharia de Software na Estácio, porque sempre busco aprender e melhorar meus conhecimentos.
 > Minha missão é **entregar valor através da tecnologia**, com soluções personalizadas, escaláveis e bem documentadas.
 - Atualmente trabalho como Desenvolvedor Full-Stack Freelancer e Responsável Técnico Municipal
 - Estou sempre buscando aprender e aplicar novas tecnologias
