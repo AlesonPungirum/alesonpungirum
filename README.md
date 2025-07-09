@@ -24,9 +24,12 @@ Atualmente, trabalho como coordenador dos cursos de TI no projeto TecPop, que é
 - Ladainha, MG - Brasil
 - Habilitação categoria A (motos) e B (automóveis)
 - Disponibilidade para viagens
-## Certificações
+##  Certificações
 
-- Gestão Ágil de Projetos com Scrum e Kanban – Senac Brasil (2025)
+- **Gestão Ágil de Projetos com Scrum e Kanban** – Senac Brasil  
+  Concluído em Julho/2025 
+  [Ver certificado](https://cursos-orango.senac.br/pluginfile.php/1/tool_certificate/issues/1752065565/0437600943AP.pdf)
+
 
 ##  Habilidades Interpessoais
 
