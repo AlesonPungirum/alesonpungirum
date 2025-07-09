@@ -21,7 +21,6 @@ Atualmente, trabalho como coordenador dos cursos de TI no projeto TecPop, que é
 - Atualmente trabalho como Desenvolvedor Full-Stack Freelancer e Responsável Técnico Municipal
 - Estou sempre buscando aprender e aplicar novas tecnologias
 - Experiência em gerenciar projetos do início ao fim, assegurando prazos e satisfação
-- Ladainha, MG - Brasil
 - Habilitação categoria A (motos) e B (automóveis)
 - Disponibilidade para viagens
 ##  Certificações
