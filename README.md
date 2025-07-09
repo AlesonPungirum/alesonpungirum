@@ -137,7 +137,7 @@ mindmap
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-## 📊 Timeline de Experiência Profissional
+##  Timeline de Experiência Profissional
 
 ```mermaid
 gantt
